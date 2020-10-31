@@ -17,4 +17,6 @@ const tanishq = {
  challenge: "I am trying to design and build better than the previous day"
 }
 ```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq0007&layout=compact&theme=dark&show_all_langs=true" alt="Tanishq0007" />
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
