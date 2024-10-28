@@ -12,7 +12,7 @@ const tanishq = {
   tools: [Adobe Illustrator, Figma, Adobe XD, Adobe Photoshop, React],
   techCommunities: {
                         coordinator: "Team Conatus and SAE-AKGEC",
-                        Product Designer: "LiveBecho",
+                        Product Designer: "Cyble",
                       },
  challenge: "I am trying to design and build better than the previous day"
 }
